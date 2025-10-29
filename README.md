@@ -153,7 +153,7 @@ Using **ADF Triggers**, the pipeline runs on a **daily schedule**, automating da
 
 ### 👨‍💻 Author  
 **Aliyu Idris Adeiza**  
-Data Engineer | Azure & Python Developer | Power BI Analyst  
+Data Engineer | Data Scientist | Cloud & AI Systems Developer  
 
 🔗 [GitHub](https://github.com/Drisatech) • [LinkedIn](https://linkedin.com/in/aliyu-idris)  
 
