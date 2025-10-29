@@ -25,7 +25,7 @@ This architecture mirrors the **real-world enterprise data workflow**, where sca
 
 ## 🧭 Architecture Overview  
 
-![Azure Data Engineering Pipeline Architecture](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/Arc%20img%202.png)
+![Azure Data Engineering Pipeline Architecture](https://github.com/Drisatech/Azure-End-To-End-Data-Engineering-Project-For-Sales-Data-Analysis/blob/main/Images/Arc%20img.png)
 
 The pipeline integrates **Data Factory**, **Databricks**, **Synapse**, and **Power BI**, forming a unified flow from **raw data ingestion** to **actionable insights**.
 
