@@ -67,12 +67,12 @@ Set up credentials (`usr1`) and store them as secrets in Azure Key Vault.
 ### 🔹 Part 1: Data Ingestion  
 
 1. **Restore** the AdventureWorksLT2017 `.bak` file in SQL Server.  
-   ![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/SOURCE%202017LTv1.png)  
+   ![image](https://github.com/Drisatech/Azure-End-To-End-Data-Engineering-Project-For-Sales-Data-Analysis/blob/main/Images/IMG_20251029_190608.png)  
 
 2. **Establish Integration Runtime (IR)** to connect on-premise SQL Server with Azure Data Factory.  
 3. **Create a Copy Pipeline** to move data from SQL Server into **Azure Data Lake Storage (Bronze layer)** in **Parquet format**.  
 
-   ![ADF Copy Activity](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/d2126d21-6f67-4fd1-bfa8-0902c5182ddc)
+   ![ADF Copy Activity](https://github.com/Drisatech/Azure-End-To-End-Data-Engineering-Project-For-Sales-Data-Analysis/blob/main/Images/299250973-d2126d21-6f67-4fd1-bfa8-0902c5182ddc.png)
 
 ---
 
@@ -87,8 +87,8 @@ Data is transformed in **Azure Databricks** using **PySpark Notebooks**, followi
 
 Final **Gold-layer data** is stored in **Delta format**, optimized for analytics.  
 
-![Databricks Storage Mount](https://github.com/zBalachandar/Tokyo-Olympic-Data-Analytics-Azure-End-To-End-Data-Engineering-Project-12/blob/45a3dedcef5ab3a1867dfafb655a827c3052b643/Assets/Storage%20Mount%200.png)  
-![Databricks Notebook](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/782503d8-453b-4bc4-8b24-5a2417bff378)  
+![Databricks Storage Mount](https://github.com/Drisatech/Azure-End-To-End-Data-Engineering-Project-For-Sales-Data-Analysis/blob/main/Images/IMG_20251029_205737.png)  
+![Databricks Notebook](https://github.com/Drisatech/Azure-End-To-End-Data-Engineering-Project-For-Sales-Data-Analysis/blob/main/Images/299253166-782503d8-453b-4bc4-8b24-5a2417bff378.png)  
 
 These Databricks notebooks are then **integrated with ADF**, enabling a **fully automated ETL workflow**.  
 
