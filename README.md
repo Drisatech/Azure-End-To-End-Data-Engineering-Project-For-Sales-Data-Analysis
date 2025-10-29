@@ -100,7 +100,7 @@ The **Gold data** is loaded into **Azure Synapse Analytics**, where **Stored Pro
 - Create or refresh views for each transformed table  
 - Prepare data models for Power BI consumption  
 
-![Synapse Pipeline](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/7f935213-4dd9-471a-aa24-bc4b1c68f41b)
+![Synapse Pipeline](https://github.com/Drisatech/Azure-End-To-End-Data-Engineering-Project-For-Sales-Data-Analysis/blob/main/Images/299255821-7f935213-4dd9-471a-aa24-bc4b1c68f41b.png)
 
 ---
 
@@ -111,7 +111,7 @@ This ensures the dashboard always reflects the latest data updates from the auto
 
 Interactive visuals showcase **Sales Performance**, **Customer Segmentation**, and **Product Profitability**.  
 
-![Power BI Dashboard](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/PowerBI%20files/PowerBI%20Reporting%20output.png)
+![Power BI Dashboard](https://github.com/Drisatech/Azure-End-To-End-Data-Engineering-Project-For-Sales-Data-Analysis/blob/main/PowerBI-Files/PowerBI%20Reporting%20output2.png)
 
 ---
 
@@ -120,10 +120,10 @@ Interactive visuals showcase **Sales Performance**, **Customer Segmentation**, a
 Using **ADF Triggers**, the pipeline runs on a **daily schedule**, automating data refresh and transformation cycles.  
 
 **Before Trigger Execution:**  
-![Before Trigger](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/51405c5f-331a-4bbd-83cf-439f91ca2525)  
+![Before Trigger](https://github.com/Drisatech/Azure-End-To-End-Data-Engineering-Project-For-Sales-Data-Analysis/blob/main/Images/299257583-51405c5f-331a-4bbd-83cf-439f91ca2525.png)  
 
 **After Trigger Execution:**  
-![After Trigger](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/578aca35-89b1-4a31-b1e0-27fb7fd923ed)
+![After Trigger](https://github.com/Drisatech/Azure-End-To-End-Data-Engineering-Project-For-Sales-Data-Analysis/blob/main/Images/299258435-578aca35-89b1-4a31-b1e0-27fb7fd923ed.png)
 
 ---
 
@@ -155,7 +155,7 @@ Using **ADF Triggers**, the pipeline runs on a **daily schedule**, automating da
 **Aliyu Idris Adeiza**  
 Data Engineer | Azure & Python Developer | Power BI Analyst  
 
-🔗 [GitHub](https://github.com/Drisatech) • [LinkedIn](https://linkedin.com/in/aliyu-idris-adeiza)  
+🔗 [GitHub](https://github.com/Drisatech) • [LinkedIn](https://linkedin.com/in/aliyu-idris)  
 
 ---
 
